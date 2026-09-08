@@ -15,7 +15,7 @@ src="https://github.com/user-attachments/assets/d8f41fdf-aad2-4363-b11c-070d646e
 <p>
 </p>
 <br />
-Imported users Chris Walker, Emma Johnson, Jordan Lee via a CSV file from Azure.
+Imported users Chris Walker, Joshua Joseph, Jordan Lee via a CSV file from Azure.
 <p>
 <img width="1001" height="227" alt="image"
 src="https://github.com/user-attachments/assets/fd63266c-9531-42ae-ba9a-0a55031e9e38" />
