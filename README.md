@@ -11,16 +11,17 @@ environment.
 - Windows 11 - Familiar with performing
 <h2>Users Imported</h2>
 <p>
-<img width="1222" height="365" alt="image"
-src="https://github.com/user-attachments/assets/d8f41fdf-aad2-4363-b11c-070d646e449f" />
+<img width="1680" height="553" alt="Screenshot 2026-09-10 at 5 14 15 PM" src="https://github.com/user-attachments/assets/635a9633-1c03-4b07-8077-2124f10aee9e" />
+<img width="1680" height="553" alt="Screenshot 2026-09-10 at 5 15 16 PM" src="https://github.com/user-attachments/assets/9c80cacb-7d59-413f-bb96-24f655bcfe5a" />
+
 </p>
 <p>
 </p>
 <br />
 Imported users Chris Walker, Joshua Joseph, Jordan Lee via a CSV file from Azure.
 <p>
-<img width="1001" height="227" alt="image"
-src="https://github.com/user-attachments/assets/fd63266c-9531-42ae-ba9a-0a55031e9e38" />
+<img width="1612" height="663" alt="Screenshot 2026-09-10 at 5 17 32 PM" src="https://github.com/user-attachments/assets/5de43b15-c2c7-4d66-8d13-4c6f273d7746" />
+
 </p>
 <p>
 </p>
