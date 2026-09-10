@@ -18,7 +18,7 @@ environment.
 <p>
 </p>
 <br />
-Imported users Chris Walker, Joshua Joseph, Jordan Lee via a CSV file from Azure.
+Imported users Terry Jones, Sarah Miche, Joshua Joseph and Marquise Moo Young via a CSV file from Azure.
 <p>
 <img width="1612" height="663" alt="Screenshot 2026-09-10 at 5 17 32 PM" src="https://github.com/user-attachments/assets/5de43b15-c2c7-4d66-8d13-4c6f273d7746" />
 
